@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
+    <a>
       <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
     </a>
   <br />
@@ -13,10 +13,6 @@
 
   <h3 align="center">Modern UI/UX website</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube.
-    </div>
-</div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -842,7 +838,6 @@ export default Roadmap;
 - [Assets](https://drive.google.com/file/d/1JKzwPl_hnpjIlNbwfjMagb4HosxnyXbf/view?usp=sharing)
 - [Design](https://drive.google.com/file/d/15WJMOchujvaQ7Kg9e0nGeGR7G7JOeX1K/view?usp=sharing)
 - [Absolute Relative Positioning](https://css-tricks.com/absolute-positioning-inside-relative-positioning/)
-- [Live Website](https://jsm-brainwave.com/)
 
 ## <a name="more">🚀 More</a>
 
